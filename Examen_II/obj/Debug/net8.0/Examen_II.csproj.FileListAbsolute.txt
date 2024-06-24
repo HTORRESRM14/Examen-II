@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Desktop\Examen II\Examen_II\Examen_II\obj\Debug\net8.0\Examen_II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\Examen II\Examen_II\Examen_II\obj\Debug\net8.0\Examen_II.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Examen II\Examen_II\Examen_II\obj\Debug\net8.0\Examen_II.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Examen II\Examen_II\Examen_II\obj\Debug\net8.0\Examen_II.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Examen II\Examen_II\Examen_II\bin\Debug\net8.0\Examen_II.exe
+C:\Users\DELL\OneDrive\Desktop\Examen II\Examen_II\Examen_II\bin\Debug\net8.0\Examen_II.deps.json
+C:\Users\DELL\OneDrive\Desktop\Examen II\Examen_II\Examen_II\bin\Debug\net8.0\Examen_II.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\Examen II\Examen_II\Examen_II\bin\Debug\net8.0\Examen_II.dll
+C:\Users\DELL\OneDrive\Desktop\Examen II\Examen_II\Examen_II\bin\Debug\net8.0\Examen_II.pdb
+C:\Users\DELL\OneDrive\Desktop\Examen II\Examen_II\Examen_II\obj\Debug\net8.0\Examen_II.dll
+C:\Users\DELL\OneDrive\Desktop\Examen II\Examen_II\Examen_II\obj\Debug\net8.0\refint\Examen_II.dll
+C:\Users\DELL\OneDrive\Desktop\Examen II\Examen_II\Examen_II\obj\Debug\net8.0\Examen_II.pdb
+C:\Users\DELL\OneDrive\Desktop\Examen II\Examen_II\Examen_II\obj\Debug\net8.0\Examen_II.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\Examen II\Examen_II\Examen_II\obj\Debug\net8.0\ref\Examen_II.dll
